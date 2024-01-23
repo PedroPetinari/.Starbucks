@@ -13,7 +13,7 @@ Nesse projeto tive grandes ensinamentos sobre:
 
  Java Script 🧠
 
-# Deploy 🚀
+## Deploy 🚀
 Realizei também um deploy na netlify e adaptei para a versão mobile.
 
 • ao clicar em “learn more" você será redirecionado ao meu perfil do linkedln! 
@@ -21,5 +21,9 @@ Realizei também um deploy na netlify e adaptei para a versão mobile.
 link: https://pedropetinari-starbucks.netlify.app/
 
 
-# Screenshots 🎨
+## Screenshots 🎨
 web e mobile
+
+![Imgur] (https://imgur.com/WWiAgzJ)
+
+

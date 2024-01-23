@@ -4,9 +4,13 @@ Projeto desenvolvido durante as aulas do Rodolfo Mori pela missão "Programaçã
 Nesse projeto tive grandes ensinamentos sobre:
 
  Mentalidade
+
  Perfil Profissional
+
  Html 
+
  Css
+
  Java Script.
 
 # Deploy 🚀

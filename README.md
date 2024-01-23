@@ -24,9 +24,8 @@ link: https://pedropetinari-starbucks.netlify.app/
 ## Screenshots 🎨
 web e mobile
 
-![Imgur](https://imgur.com/WWiAgzJ.png)
-![Imgur](https://imgur.com/a/xpIBkJ9.png)
-![Imgur](https://imgur.com/a/aF8hnM6.png)
-![Imgur](https://imgur.com/a/IY4ZOYJ.png)
-
+![Imgur](https://imgur.com/TWp8iFg.png)
+![Imgur](https://imgur.com/8wO1gZF.png)
+![Imgur](https://imgur.com/9xtfB9K.png)
+![Imgur](https://imgur.com/jYApEjo.png)
 

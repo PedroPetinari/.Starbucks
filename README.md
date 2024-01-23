@@ -3,18 +3,20 @@ Projeto desenvolvido durante as aulas do Rodolfo Mori pela missão "Programaçã
 
 Nesse projeto tive grandes ensinamentos sobre:
 
- Mentalidade
+ Mentalidade 🫡
 
- Perfil Profissional
+ Perfil Profissional 💪🏻
 
- Html 
+ Html 🩻
 
- Css
+ Css 👤
 
- Java Script.
+ Java Script 🧠
 
 # Deploy 🚀
 Realizei também um deploy na netlify e adaptei para a versão mobile.
+
+• ao clicar em “learn more" você será redirecionado ao meu perfil do linkedln! 
 
 link: https://pedropetinari-starbucks.netlify.app/
 

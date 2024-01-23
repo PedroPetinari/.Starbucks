@@ -16,6 +16,8 @@ Nesse projeto tive grandes ensinamentos sobre:
 # Deploy 🚀
 Realizei também um deploy na netlify e adaptei para a versão mobile.
 
+link: https://pedropetinari-starbucks.netlify.app/
+
 
 # Screenshots 🎨
 web e mobile
